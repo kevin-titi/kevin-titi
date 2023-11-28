@@ -8,8 +8,8 @@ I will graduate in December 2023. Looking for an amazing data analyst? Please co
 
 ## My interest is in gaming industry and people analytics.
 
-- 📊 My team has won 1st place in [Wharton People Analytics Conference Case Competition 2023](https://www.youtube.com/watch?v=knH6NrAmbPM). I will put my work here soon.
-- 🎮 I have done [MARVEL SNAP game teardown](https://www.linkedin.com/in/kk-titinanapun/details/projects/). Now, I’m exploring more on the analytics side of gaming industry. 
+- 📊 My team has won 1st place in [Wharton People Analytics Conference Case Competition 2023](https://www.youtube.com/watch?v=knH6NrAmbPM). I will put my work [here](https://github.com/kk-chaiyapuk/Wharton_People_Analytics_Case_Competition_2023).
+- 🎮 I have done [MARVEL SNAP game teardown](https://www.linkedin.com/in/kk-titinanapun/details/projects/). Now, I’m exploring more on the analytics side of the gaming industry. 
 - 📖 My favorite books are from [Adam Grant](https://adamgrant.net/book/think-again/)!
 
 ## I would love to connect with new people!
