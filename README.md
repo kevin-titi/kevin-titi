@@ -6,7 +6,7 @@ Thank you for looking into my Github! My preferred name is KK (way easier than C
 
 - 🎮 (Python) [Game Analytics: Day 14 Player Retention/Churn Prediction](https://github.com/kk-chaiyapuk/Game_Analytics_D14_Retention_Prediction)
 - 🎮 (Python) [Game Analytics: A/B Testing the impact of a game difficulty variation](https://github.com/kk-chaiyapuk/Game_Analytics_AB_Test_Difficulty_Effect)
-- 💳 (Python) [Fraud Detection Algorithm - Credit Card Transaction](https://github.com/kk-chaiyapuk/Fraud_Detection_Credit_Card_Transaction)
+- 💳 (Python) [Fraud Analytics: Credit Card Transaction Fraud Detection](https://github.com/kk-chaiyapuk/Fraud_Detection_Credit_Card_Transaction)
 - 🗃️ (SQL) [Northwind Traders Database Exploration](https://github.com/kk-chaiyapuk/SQL-Northwind_Traders_Database)
 
 ## My business-related work
