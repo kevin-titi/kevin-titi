@@ -11,7 +11,7 @@ Thank you for looking into my Github! My preferred name is KK (way easier than C
 
 ## My business-related work
 - 📊 My team has won 1st place in [Wharton People Analytics Conference Case Competition 2023](https://www.youtube.com/watch?v=knH6NrAmbPM). I will put my work [here](https://github.com/kk-chaiyapuk/Wharton_People_Analytics_Case_Competition_2023).
-- 🎮 I have done [MARVEL SNAP game teardown](https://www.linkedin.com/in/kk-titinanapun/details/projects/1635546520031/single-media-viewer), analyzing player progression, in-game economy, and monetization. 
+- 🎮 I have done [Game Teardown: MARVEL SNAP](https://www.linkedin.com/in/kk-titinanapun/details/projects/1635546520031/single-media-viewer), analyzing player progression, in-game economy, and monetization. 
 
 ## I would love to connect with new people!
 
