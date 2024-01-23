@@ -4,9 +4,9 @@ Thank you for looking into my Github! My preferred name is KK (way easier than C
 
 ## Take a look at my data analytics work!
 
+- 💳 (Python) [Fraud Analytics: Credit Card Transaction Fraud Detection](https://github.com/kk-chaiyapuk/Fraud_Detection_Credit_Card_Transaction)
 - 🎮 (Python) [Game Analytics: Day 14 Player Retention/Churn Prediction](https://github.com/kk-chaiyapuk/Game_Analytics_D14_Retention_Prediction)
 - 🎮 (Python) [Game Analytics: A/B Testing the Impact of a Game Difficulty Variation](https://github.com/kk-chaiyapuk/Game_Analytics_AB_Test_Difficulty_Effect)
-- 💳 (Python) [Fraud Analytics: Credit Card Transaction Fraud Detection](https://github.com/kk-chaiyapuk/Fraud_Detection_Credit_Card_Transaction)
 - 🗃️ (SQL) [Northwind Traders Database Exploration](https://github.com/kk-chaiyapuk/SQL-Northwind_Traders_Database)
 - 📈 (Tableau) [Superstore - Executive Dashboard](https://public.tableau.com/app/profile/chaiyapuk.kk.titinanapun/viz/Superstore-ExecutiveDashboard_17047628662920/Overview-Profit) (I am currently working on this new one. I cannot put one from case competition as the data is protected by NDA)
 
