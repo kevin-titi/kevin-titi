@@ -1,6 +1,6 @@
 ## Hello! My name is Kevin. 👋🏼
 
-Thank you for looking into my Github! My name is Kevin. I am a data analyst coming from Thailand, seeking to explore the opportunities data can provide for business action. Joining the MS in Business Analytics program at USC Marshall, I am looking forward to sharing what I have learned with you.
+Thank you for looking into my Github! My name is Kevin. I am a data analyst seeking to explore the opportunities data can provide for business action. Joining the MS in Business Analytics program at USC Marshall, I am looking forward to sharing what I have learned with you.
 
 ## Take a look at my data analytics work!
 
